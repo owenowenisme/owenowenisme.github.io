@@ -16752,7 +16752,7 @@ f.toString
 if(i instanceof f){f=i
 f.toString
 h=f
-if(h.status===404&&b==="click-speed-test/assets/AssetManifest.json"){$.br().$1("Asset manifest does not exist at `"+A.f(d)+"` \u2013 ignoring.")
+if(h.status===404&&b==="AssetManifest.json"){$.br().$1("Asset manifest does not exist at `"+A.f(d)+"` \u2013 ignoring.")
 q=A.iF(new Uint8Array(A.I3(B.E.gnw().d6("{}"))).buffer,0,null)
 s=1
 break}f=A.abZ(h)
@@ -17826,7 +17826,7 @@ var $async$fF=A.a8(function(a0,a1){if(a0===1){o=a1
 s=p}while(true)switch(s){case 0:c=null
 p=4
 s=7
-return A.a3(a.cj(0,"click-speed-test/assets/FontManifest.json"),$async$fF)
+return A.a3(a.cj(0,"FontManifest.json"),$async$fF)
 case 7:c=a1
 p=2
 s=6
@@ -24433,7 +24433,7 @@ var $async$fF=A.a8(function(a7,a8){if(a7===1){o=a8
 s=p}while(true)switch(s){case 0:a4=null
 p=4
 s=7
-return A.a3(a6.cj(0,"click-speed-test/assets/FontManifest.json"),$async$fF)
+return A.a3(a6.cj(0,"FontManifest.json"),$async$fF)
 case 7:a4=a8
 p=2
 s=6
