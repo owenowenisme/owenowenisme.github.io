@@ -16752,7 +16752,7 @@ f.toString
 if(i instanceof f){f=i
 f.toString
 h=f
-if(h.status===404&&b==="AssetManifest.json"){$.br().$1("Asset manifest does not exist at `"+A.f(d)+"` \u2013 ignoring.")
+if(h.status===404&&b==="click-speed-test/assets/AssetManifest.json"){$.br().$1("Asset manifest does not exist at `"+A.f(d)+"` \u2013 ignoring.")
 q=A.iF(new Uint8Array(A.I3(B.E.gnw().d6("{}"))).buffer,0,null)
 s=1
 break}f=A.abZ(h)
